@@ -1,6 +1,6 @@
 Hi!
 
-This is a small test project
+This is a REST - API test project
 The goal is to test create, update and delete methods on JSON Blob API.
 I've made this project in PyCharm, using python, pytest, pytest_bdd and requests library.
 
